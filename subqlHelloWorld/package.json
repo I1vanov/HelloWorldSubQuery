@@ -1,7 +1,7 @@
 {
-  "name": "subqlHelloWorld",
+  "name": "HelloWorld",
   "version": "1.0.0",
-  "description": "",
+  "description": "HelloWorld by I1vanov",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
