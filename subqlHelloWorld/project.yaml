@@ -1,5 +1,5 @@
 specVersion: 0.0.1
-description: ''
+description: 'Subquery project'
 repository: ''
 schema: ./schema.graphql
 network:
